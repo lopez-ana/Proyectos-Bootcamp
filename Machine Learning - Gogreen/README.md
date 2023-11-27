@@ -4,9 +4,7 @@
 
 Andrea cabrera, Catalina Tomás Jaume, Lourdes Boj, Ana Isabel López Navarro
 
-
 # Descripción
-=========================================	
 
 GoGreen Bikesharing es una empresa de Whashington D.C. dedicada al alquiler de bicicletas.
 
@@ -18,7 +16,6 @@ También se harán varios modelos de Machine Learning que nos permitan realizar 
 
 
 # Variables Dataset 
-=========================================	
 	
 	- instant: record index
 	- dteday : date
@@ -41,9 +38,12 @@ También se harán varios modelos de Machine Learning que nos permitan realizar 
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 
+# Link dashboard
+
+Puedes encontrar la presentación [aquí](https://public.tableau.com/app/profile/ana10426514/viz/Gogreen/1_Inicio)
+
 
 # Estructura
-=========================================	
 
 En este repositorio se encuentran tres carpetas:
 
