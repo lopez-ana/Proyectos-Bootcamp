@@ -1,5 +1,3 @@
-# GOGREEN
-=========================================
 
 # Autoras
 =========================================
@@ -9,6 +7,7 @@ Andrea cabrera, Catalina Tomás Jaume, Lourdes Boj, Ana Isabel López Navarro
 
 # Descripción
 =========================================	
+
 GoGreen Bikesharing es una empresa de Whashington D.C. dedicada al alquiler de bicicletas.
 
 El dataset sobre el que trabajamos posee datos tales como la cantidad de bicis alquiladas por usuarios registrados, la cantidad de alquileres realizados por usuarios puntuales, y la cantidad total. A estos datos se les añadió información meteorológica, y el calendario de festivos.
@@ -18,7 +17,7 @@ En este proyecto se van a analizar cuáles son los aspectos que más influyen en
 También se harán varios modelos de Machine Learning que nos permitan realizar predicciones de cuántas bicicletas se van a alquilar en un día.
 
 
-# Dataset 
+# Variables Dataset 
 =========================================	
 	
 	- instant: record index
